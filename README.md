@@ -10,9 +10,9 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Database-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)](https://supabase.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Powered-%234285F4.svg?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://lmsplatform-hvqmsupzi-bonderiddhish-gmailcoms-projects.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://lmsplatform-g8kfo0tz9-bonderiddhish-gmailcoms-projects.vercel.app)
 
-[✨ Live Demo ✨](https://lmsplatform-hvqmsupzi-bonderiddhish-gmailcoms-projects.vercel.app)
+[✨ Live Demo ✨](https://lmsplatform-g8kfo0tz9-bonderiddhish-gmailcoms-projects.vercel.app)
 
 </div>
 
@@ -22,17 +22,17 @@
 
 <div align="center">
   <h3>Dashboard View</h3>
-  <a href="https://lmsplatform-hvqmsupzi-bonderiddhish-gmailcoms-projects.vercel.app">
+  <a href="https://lmsplatform-g8kfo0tz9-bonderiddhish-gmailcoms-projects.vercel.app">
     <img src="docs/DashBoard.png" alt="LearnSphere AI Dashboard" width="90%" />
   </a>
   
   <h3>Course View</h3>
-  <a href="https://lmsplatform-hvqmsupzi-bonderiddhish-gmailcoms-projects.vercel.app">
+  <a href="https://lmsplatform-g8kfo0tz9-bonderiddhish-gmailcoms-projects.vercel.app">
     <img src="docs/Course.png" alt="LearnSphere AI Course" width="90%" />
   </a>
   
   <h3>Course Creation</h3>
-  <a href="https://lmsplatform-hvqmsupzi-bonderiddhish-gmailcoms-projects.vercel.app">
+  <a href="https://lmsplatform-g8kfo0tz9-bonderiddhish-gmailcoms-projects.vercel.app">
     <img src="docs/Course make.png" alt="LearnSphere AI Course Creation" width="90%" />
   </a>
 </div>
@@ -235,7 +235,7 @@ The project uses Supabase as the backend. Database migrations are located in `sr
 
 ## 🌍 Deployment
 
-This project is deployed at: [LearnSphere AI Platform](https://lmsplatform-hvqmsupzi-bonderiddhish-gmailcoms-projects.vercel.app)
+This project is deployed at: [LearnSphere AI Platform](https://lmsplatform-g8kfo0tz9-bonderiddhish-gmailcoms-projects.vercel.app)
 
 <details>
 <summary>Deployment Instructions</summary>
