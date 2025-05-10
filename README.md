@@ -14,10 +14,27 @@
 
 [✨ Live Demo ✨](https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login)
 
-<a href="https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login">
-  <img src="https://via.placeholder.com/800x400?text=LearnSphere+AI+Screenshot" alt="LearnSphere AI Platform" width="700px" />
-</a>
+</div>
 
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <h3>Dashboard View</h3>
+  <a href="https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login">
+    <img src="docs/DashBoard.png" alt="LearnSphere AI Dashboard" width="90%" />
+  </a>
+  
+  <h3>Course View</h3>
+  <a href="https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login">
+    <img src="docs/Course.png" alt="LearnSphere AI Course" width="90%" />
+  </a>
+  
+  <h3>Course Creation</h3>
+  <a href="https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login">
+    <img src="docs/Course make.png" alt="LearnSphere AI Course Creation" width="90%" />
+  </a>
 </div>
 
 ---
