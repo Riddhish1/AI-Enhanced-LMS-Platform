@@ -1,4 +1,4 @@
-# 🚀 Modern Learning Platform
+# 🚀 LearnSphere AI - Intelligent Learning Management, Reimagined
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![React](https://img.shields.io/badge/React-18-blue)
@@ -10,11 +10,11 @@
 
 ## 🌟 [Live Demo](https://lmsplatform-tan.vercel.app/login)
 
-A cutting-edge learning management system designed for the modern educational landscape. This platform seamlessly integrates traditional course management with AI-powered features, creating an intuitive and personalized learning experience.
+LearnSphere AI transforms traditional education with intelligent course management and AI-powered learning tools. Our platform combines intuitive progress tracking, personalized learning paths, and smart content enhancement to create a comprehensive educational ecosystem where students achieve their goals faster and retain knowledge longer.
 
 Built with a responsive design and performance-focused architecture, this platform enables learners to track their progress, set meaningful goals, and receive AI-enhanced content summaries—all within a beautiful, accessible interface that adapts to any device.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Learning+Platform+Screenshot)
+![App Screenshot](https://via.placeholder.com/800x400?text=LearnSphere+AI+Screenshot)
 
 ## ✨ Features
 
@@ -103,8 +103,8 @@ Built with a responsive design and performance-focused architecture, this platfo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Riddhish1/LMS-PLATFORM.git
-   cd LMS-PLATFORM
+   git clone https://github.com/Riddhish1/AI-Enhanced-LMS-Platform.git
+   cd AI-Enhanced-LMS-Platform
    ```
 
 2. Install dependencies:
