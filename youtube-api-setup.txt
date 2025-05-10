@@ -1,0 +1,11 @@
+# YouTube API Setup Instructions
+
+1. Create a file named `.env` in the root directory of your project
+2. Add the following line to the file:
+   ```
+   VITE_YT_API_KEY=your_actual_youtube_api_key
+   ```
+3. Replace "your_actual_youtube_api_key" with your real YouTube Data API key
+4. Save the file and restart your development server with `npm run dev`
+
+Note: Make sure the .env file is included in your .gitignore to keep your API key private 
