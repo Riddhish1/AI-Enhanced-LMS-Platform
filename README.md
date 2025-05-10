@@ -1,68 +1,127 @@
-# 🚀 LearnSphere AI - Intelligent Learning Management, Reimagined
+<div align="center">
+  
+# 🧠 LearnSphere AI
+
+### *Intelligent Learning Management, Reimagined*
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![React](https://img.shields.io/badge/React-18-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-![Supabase](https://img.shields.io/badge/Supabase-Latest-green)
-![Tailwind](https://img.shields.io/badge/Tailwind-3-blueviolet)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Powered-orange)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)](https://lmsplatform-tan.vercel.app)
+[![React](https://img.shields.io/badge/React-18-%2361DAFB.svg?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-%233178C6.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-Database-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)](https://supabase.io/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Powered-%234285F4.svg?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login)
 
-## 🌟 [Live Demo](https://lmsplatform-tan.vercel.app/login)
+[✨ Live Demo ✨](https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login)
 
-LearnSphere AI transforms traditional education with intelligent course management and AI-powered learning tools. Our platform combines intuitive progress tracking, personalized learning paths, and smart content enhancement to create a comprehensive educational ecosystem where students achieve their goals faster and retain knowledge longer.
+<a href="https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login">
+  <img src="https://via.placeholder.com/800x400?text=LearnSphere+AI+Screenshot" alt="LearnSphere AI Platform" width="700px" />
+</a>
+
+</div>
+
+---
+
+## 📋 Overview
+
+LearnSphere AI transforms traditional education with **intelligent course management** and **AI-powered learning tools**. Our platform combines intuitive progress tracking, personalized learning paths, and smart content enhancement to create a comprehensive educational ecosystem where students achieve their goals faster and retain knowledge longer.
 
 Built with a responsive design and performance-focused architecture, this platform enables learners to track their progress, set meaningful goals, and receive AI-enhanced content summaries—all within a beautiful, accessible interface that adapts to any device.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=LearnSphere+AI+Screenshot)
+---
 
-## ✨ Features
+<div align="center">
+  
+### ✨ Key Features
+  
+</div>
 
-### Core Features
-- **📚 Comprehensive Course Management** 
-  - Browse an extensive library of courses
-  - Enroll and progress tracking with detailed analytics
-  - Interactive module navigation with completion tracking
-  - Easily remove unwanted courses from your dashboard
+### 📚 Comprehensive Course Management 
+  
+<details>
+<summary>Click to expand</summary>
 
-- **🎯 Smart Learning Goals System**
-  - Set personalized learning objectives with target dates
-  - Track progress across your educational journey
-  - Organize and prioritize goals with intuitive status indicators
-  - Receive achievement notifications upon completion
+- 🔍 Browse an extensive library of courses
+- 📊 Enroll and progress tracking with detailed analytics
+- 🧭 Interactive module navigation with completion tracking
+- 🗑️ Easily remove unwanted courses from your dashboard
+</details>
 
-- **🎓 Advanced Progress Analytics**
-  - Visualize your learning journey with detailed charts and metrics
-  - Identify strengths and areas for improvement
-  - Track time spent on different subject areas
-  - Export progress reports for personal records
+### 🎯 Smart Learning Goals System
 
-- **🎨 Responsive UI with Dark/Light Mode**
-  - Beautiful, accessibility-focused interface
-  - Seamless device adaptation from mobile to desktop
-  - Eye-friendly dark mode for night-time learning
-  - Motion animations for engaging user experience
+<details>
+<summary>Click to expand</summary>
 
-### AI Integration
-- **🤖 Gemini AI Assistant**
+- 📝 Set personalized learning objectives with target dates
+- 📈 Track progress across your educational journey
+- 🔄 Organize and prioritize goals with intuitive status indicators
+- 🏆 Receive achievement notifications upon completion
+</details>
+
+### 🧠 AI Integration
+
+<details>
+<summary>Click to expand</summary>
+
+- 🤖 **Gemini AI Assistant**
   - Get personalized course recommendations based on learning patterns
   - Receive instant answers to course-related questions
   - Adaptive support tailored to individual learning styles
-  - Natural language interaction for intuitive experience
 
-- **📝 AI-Generated Content Enhancement**
+- 📝 **AI-Generated Content Enhancement**
   - Automatic summaries of complex topics for quick review
   - Key concept extraction from course materials
-  - Supplementary explanations for challenging concepts
   - Visual concept mapping for better understanding
 
-- **❓ Intelligent Assessment Generation**
+- ❓ **Intelligent Assessment Generation**
   - AI-powered quizzes that adapt to your knowledge level
   - Diverse question formats to test comprehensive understanding
-  - Detailed explanations for incorrect answers
   - Spaced repetition suggestions based on performance
+</details>
 
+### 🎨 Responsive UI with Dark/Light Mode
+
+<details>
+<summary>Click to expand</summary>
+
+- ✅ Beautiful, accessibility-focused interface
+- 📱 Seamless device adaptation from mobile to desktop
+- 🌙 Eye-friendly dark mode for night-time learning
+- 🎬 Motion animations for engaging user experience
+</details>
+
+---
+
+<div align="center">
+  
 ## 🛠️ Tech Stack
+  
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/><br />
+      <strong>React</strong>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"/><br />
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40"/><br />
+      <strong>Tailwind</strong>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40"/><br />
+      <strong>Supabase</strong>
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/G/google-ai-logo-655C6F1EE5-seeklogo.com.png" width="40" height="40"/><br />
+      <strong>Gemini AI</strong>
+    </td>
+  </tr>
+</table>
 
 - **Frontend**: 
   - React 18 with TypeScript for type-safe development
@@ -90,14 +149,16 @@ Built with a responsive design and performance-focused architecture, this platfo
   - Automatic previews for pull requests
   - Environment variable management for secure configuration
 
-## 📋 Prerequisites
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
 
 - Node.js (v16+)
 - npm or yarn
 - Supabase account
 - Google Cloud account (for Gemini API)
-
-## 🚀 Getting Started
 
 ### Installation
 
@@ -126,30 +187,62 @@ Built with a responsive design and performance-focused architecture, this platfo
 
 5. Open [http://localhost:5174](http://localhost:5174) to view the app in your browser.
 
+---
+
 ## 📊 Database Setup
 
 The project uses Supabase as the backend. Database migrations are located in `src/db/migrations/`.
 
-To apply migrations:
-1. Install Supabase CLI: `npm install -g supabase`
-2. Login: `supabase login`
-3. Link your project: `supabase link --project-ref your-project-ref`
-4. Apply migrations: `supabase db push`
+<details>
+<summary>Migration Setup Instructions</summary>
+
+1. Install Supabase CLI: 
+   ```bash
+   npm install -g supabase
+   ```
+2. Login: 
+   ```bash
+   supabase login
+   ```
+3. Link your project: 
+   ```bash
+   supabase link --project-ref your-project-ref
+   ```
+4. Apply migrations: 
+   ```bash
+   supabase db push
+   ```
+</details>
+
+---
 
 ## 🌍 Deployment
 
-This project is deployed at: [https://lmsplatform-tan.vercel.app](https://lmsplatform-tan.vercel.app/login)
+This project is deployed at: [LearnSphere AI Platform](https://lmsplatform-bonderiddhish-gmailcoms-projects.vercel.app/login)
 
-To deploy your own instance:
+<details>
+<summary>Deployment Instructions</summary>
 
-1. Install Vercel CLI: `npm install -g vercel`
-2. Login to Vercel: `vercel login`
-3. Deploy: `vercel --prod`
+1. Install Vercel CLI: 
+   ```bash
+   npm install -g vercel
+   ```
+2. Login to Vercel: 
+   ```bash
+   vercel login
+   ```
+3. Deploy: 
+   ```bash
+   vercel --prod
+   ```
 
 Remember to add your environment variables in the Vercel dashboard:
 - `VITE_SUPABASE_URL`
 - `VITE_SUPABASE_ANON_KEY`
 - `VITE_GEMINI_API_KEY`
+</details>
+
+---
 
 ## 🧩 Project Structure
 
@@ -169,6 +262,8 @@ Remember to add your environment variables in the Vercel dashboard:
   /types          # TypeScript type definitions
 ```
 
+---
+
 ## 🔒 Security
 
 - Row-Level Security policies in Supabase ensure data privacy
@@ -176,15 +271,21 @@ Remember to add your environment variables in the Vercel dashboard:
 - User authentication with Supabase Auth
 - API key restrictions for Gemini API access
 
-## 📄 License
+---
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+<div align="center">
+  
+## 📄 License
+  
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Supabase](https://supabase.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Google Gemini API](https://ai.google.dev/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20"/>](https://reactjs.org/) 
+[<img src="https://vitejs.dev/logo.svg" width="20" height="20"/>](https://vitejs.dev/)
+[<img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="20" height="20"/>](https://supabase.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20" height="20"/>](https://tailwindcss.com/)
+[<img src="https://www.framer.com/images/favicons/favicon.png" width="20" height="20"/>](https://www.framer.com/motion/)
+[<img src="https://seeklogo.com/images/G/google-ai-logo-655C6F1EE5-seeklogo.com.png" width="20" height="20"/>](https://ai.google.dev/)
+
+</div> 
