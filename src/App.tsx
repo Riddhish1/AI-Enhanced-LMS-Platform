@@ -32,7 +32,7 @@ function App() {
   }, [checkSession]);
 
   useEffect(() => {
-    // Add dark mode class to document based on hii
+    // Add dark mode class to document based on hii i am here 
     if (theme === 'dark') {
       document.documentElement.classList.add('dark');
     } else {
